@@ -9,6 +9,6 @@ entries:
     name: webapp-chart
     type: application
     urls:
-    - https://example.com/charts/webapp-chart-0.1.0.tgz
+    - https://sandipghosh.github.io/demo-charts/webapp-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2025-08-26T18:11:07.114281+05:30"
